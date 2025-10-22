@@ -33,11 +33,11 @@ Key research areas:
 ---
 
 ### 👥 Team  
-- Abin Jacob
-- Till Habersetzer
+- [Abin Jacob](https://github.com/abinjakob)
+- [Till Habersetzer](https://github.com/tillhabersetzer)
 - Vaibhav Kumar
-- Rakshitha V
-- Prof. Dr. Martin Bleichner – Scientific Advisor  
+- [Rakshitha V](https://github.com/Virupaksh0102)
+- [Prof. Dr. Martin Bleichner](https://github.com/mgbleichner) – Scientific Advisor  
 
 ---
 
