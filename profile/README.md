@@ -11,6 +11,8 @@ At **Calypso**, we are building a future where technology adapts seamlessly to i
 ### 🔬 Current Focus  
 Our first project, **Calypso Beam**, combines EEG-based BCI and AR to empower users to interact with digital environments using **brain and gaze activity** — designed especially for individuals with limited motor control.  
 
+![Calypso BEAM Concept](https://github.com/CalypsoBCI/img/blob/main/Group%202.png)
+
 **Calypso Beam AR glasses** allow users to control a **smartphone or laptop hands-free**. The interface of the device is projected into AR space, while our **Hybrid-BCI system** interprets neural and eye signals to enable seamless device control.  
 
 Key features:
@@ -22,7 +24,9 @@ Key features:
 ---
 
 ### 🧠 Research & Development  
-We collaborate with **the University of Oldenburg** and **GIZ Startup Incubator**, uniting neuroscience, engineering, and design to push the boundaries of real-world BCI applications.
+![Calypso BEAM Research](https://github.com/CalypsoBCI/img/blob/main/Frame%202.png)
+
+We collaborate with **the University of Oldenburg** and Translational Psychology Lab at UOL, uniting neuroscience, engineering, and design to push the boundaries of real-world BCI applications.
 
 Key research areas:
 - BCI stability across sessions and contexts  
